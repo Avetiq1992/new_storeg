@@ -131,3 +131,9 @@ h2{
     margin: 20px;
     background-color: rgba(255, 255, 255, 0.8);
  }
+
+ #platform button{
+    margin: 0 20px;
+    padding: 4px 10px;
+    border-radius: 6px;
+ }
