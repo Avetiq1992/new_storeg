@@ -103,4 +103,11 @@ body {
 .h_h{
     display: flex;
     justify-content: center;
+    align-items: center;
+}
+h1{
+    color: aqua;
+}
+h2{
+    color: aquamarine;
 }
